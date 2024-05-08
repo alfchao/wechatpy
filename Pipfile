@@ -1,0 +1,10 @@
+[packages]
+Flask = "*"
+pydantic = "*"
+wechatpy = "*"
+redis = "*"
+cryptography = "*"
+pydantic-settings = "*"
+
+[requires]
+python_version = "3.12"
